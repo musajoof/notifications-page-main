@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Mark Webber",
+    "action": "comment on your post",
+    "timestamp": "2023-09-14T12:30:00Z",
+    "avata": "src/assets/images/avatar-angela-gray.webp"
+  },
+  {
+    "id": 2,
+    "name": "Angela Gray",
+    "action": "like your post",
+    "timestamp": "2023-09-14T12:35:00Z",
+    "avata": "src/assets/images/avatar-angela-gray.webp"
+  },
+  {
+    "id": 3,
+    "name": "Jacob Thomson",
+    "action": "join",
+    "timestamp": "2023-09-14T12:40:00Z",
+    "avata": "src/assets/images/avatar-jacob-thompson.webp"
+  },
+  {
+    "name": "Anna Kim",
+    "action": "comment on your post",
+    "timestamp": "2023-09-14T12:45:00Z",
+    "avata": "src/assets/images/avatar-anna-kim.webp"
+  },
+  {
+    "name": "kimberly Smith",
+    "action": "exit",
+    "timestamp": "2023-09-14T12:50:00Z",
+    "avata": "src/assets/images/avatar-kimberly-smith.webp"
+  },
+  {
+    "name": "Nathan Peterson",
+    "action": "comment on your post",
+    "timestamp": "2023-09-14T12:55:00Z",
+    "avata": "src/assets/images/avatar-nathan-peterson.webp"
+  },
+  {
+    "name": "rizky Hasanuddin",
+    "action": "join",
+    "timestamp": "2023-09-14T12:33:00Z",
+    "avata": "src/assets/images/avatar-rizky-hasanuddin.webp"
+  }
+  
+]
